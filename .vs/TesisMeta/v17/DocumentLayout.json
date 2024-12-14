@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\rule3so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\rule3so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\rule4so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\rule4so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\circuitvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\circuitvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\ruleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\ruleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\rule1so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\rule1so.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|c:\\users\\kevin\\documents\\cursounity\\tesismeta\\assets\\fisei\\motormonofasico\\socketconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\socketconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\socketidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\socketidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\contactortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\contactortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\sockettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\sockettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\conexiones\\cableconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\conexiones\\cableconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\cableend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\cableend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\socketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\socketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\reglavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\reglavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\switchtoggledepend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\switchtoggledepend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\socketpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\socketpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\switchtoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\switchtoggle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\motorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\motorselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\canvasswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\canvasswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\cablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\cablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\debugtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\debugtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\destornilladorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\destornilladorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\cablephysicshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\cablephysicshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\physiccable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\physiccable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\motormonofasico\\physicalcable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\motormonofasico\\physicalcable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\xrobjectcanvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\xrobjectcanvashandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\seguimientoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\seguimientoobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\cambioscena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\cambioscena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fisei\\scripts\\seguimientocanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fisei\\scripts\\seguimientocanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Plugins\\Android\\AndroidManifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\assets\\fadescreenka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468554A4-B791-2367-4604-3CA0E08B13A5}|Assembly-CSharp.csproj|solutionrelative:assets\\fadescreenka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5FC8DF-46CA-4BF4-E6FC-0336F5327BBC}|Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj|solutionrelative:Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rule4SO.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule4SO.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\Rule4SO.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule4SO.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\Rule4SO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:03:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rule3SO.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule3SO.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\Rule3SO.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule3SO.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\Rule3SO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T21:01:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRule.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\IRule.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\IRule.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\IRule.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\IRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:49:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleSO.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\RuleSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\RuleSO.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\RuleSO.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\RuleSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:49:01.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\Rule.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:48:56.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rule1SO.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule1SO.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\Rule1SO.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Rule1SO.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\Rule1SO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:48:56.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SocketIdentifier.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketIdentifier.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SocketIdentifier.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketIdentifier.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SocketIdentifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:55:44.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\UIManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAwwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:47:29.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SocketType.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketType.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SocketType.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketType.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SocketType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:43:48.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircuitValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CircuitValidator.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\CircuitValidator.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CircuitValidator.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\CircuitValidator.cs",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAgwCkBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:28:50.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CableEnd.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CableEnd.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\CableEnd.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CableEnd.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\CableEnd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:21:16.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SocketConnector.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketConnector.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SocketConnector.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketConnector.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SocketConnector.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIBJwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:07:35.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ContactorTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\ContactorTest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ContactorTest.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\ContactorTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:32:48.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CableConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Conexiones\\CableConnection.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\Conexiones\\CableConnection.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\Conexiones\\CableConnection.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\Conexiones\\CableConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:20:22.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReglaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ReglaValidator.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\ReglaValidator.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ReglaValidator.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\ReglaValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:05:03.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SocketController.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketController.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SocketController.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketController.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SocketController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDoAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:13:22.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SwitchToggleDepend.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SwitchToggleDepend.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SwitchToggleDepend.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SwitchToggleDepend.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SwitchToggleDepend.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:08:09.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\TutorialManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\TutorialManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:09:33.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SocketPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SocketPoint.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SocketPoint.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SocketPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:27:40.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MotorSelector.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\MotorSelector.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\MotorSelector.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\MotorSelector.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\MotorSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:36:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SwitchToggle.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SwitchToggle.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\SwitchToggle.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\SwitchToggle.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\SwitchToggle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:46:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DebugTest.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\DebugTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\DebugTest.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\DebugTest.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\DebugTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:03:35.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CanvasSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\CanvasSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\CanvasSwitcher.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\CanvasSwitcher.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\CanvasSwitcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:39:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CableScript.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\CableScript.cs",
+              "RelativeDocumentMoniker": "Assets\\CableScript.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\CableScript.cs",
+              "RelativeToolTip": "Assets\\CableScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:14:06.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\ConnectionManager.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\ConnectionManager.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAmwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T23:22:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DestornilladorScript.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\DestornilladorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\DestornilladorScript.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\DestornilladorScript.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\DestornilladorScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:29:50.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CablePhysicsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CablePhysicsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\CablePhysicsHandler.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\CablePhysicsHandler.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\CablePhysicsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:20:56.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhysicCable.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\PhysicCable.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\PhysicCable.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\PhysicCable.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\PhysicCable.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAIBJwKoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:27:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PhysicalCable.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\PhysicalCable.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\MotorMonofasico\\PhysicalCable.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\MotorMonofasico\\PhysicalCable.cs",
+              "RelativeToolTip": "Assets\\Fisei\\MotorMonofasico\\PhysicalCable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:34:46.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "XRObjectCanvasHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\XRObjectCanvasHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\XRObjectCanvasHandler.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\XRObjectCanvasHandler.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\XRObjectCanvasHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAD4vxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:54:08.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "XrcPhysicsInteractionStationAnalytics.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs",
+              "RelativeDocumentMoniker": "Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs",
+              "RelativeToolTip": "Assets\\XRI_Examples\\Global\\Scripts\\Analytics\\Behaviours\\XrcPhysicsInteractionStationAnalytics.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:36:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAGsBAAAAAAAAAAAAAB4CAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:28:41.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Assets\\Plugins\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-11-20T03:10:01.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeguimientoObjeto.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\SeguimientoObjeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\SeguimientoObjeto.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\SeguimientoObjeto.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\SeguimientoObjeto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:25:57.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DynamicMoveProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\Scripts\\DynamicMoveProvider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:18:51.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OVRProjectSetupXRTasks.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@69.0.1\\Editor\\OVRProjectSetup\\Tasks\\Implementations\\OVRProjectSetupXRTasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:07:16.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MultiAnchorTeleportReticle.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\MultiAnchorTeleportReticle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:17:57.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TeleportVolumeAnchorAffordanceStateLink.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs",
+              "RelativeToolTip": "Assets\\Samples\\XR Interaction Toolkit\\2.6.3\\Starter Assets\\DemoSceneAssets\\Scripts\\TeleportVolumeAnchorAffordanceStateLink.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:18:39.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CambioScena.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\CambioScena.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\CambioScena.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\CambioScena.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\CambioScena.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T16:02:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SeguimientoCanvas.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\SeguimientoCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Fisei\\Scripts\\SeguimientoCanvas.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\Fisei\\Scripts\\SeguimientoCanvas.cs",
+              "RelativeToolTip": "Assets\\Fisei\\Scripts\\SeguimientoCanvas.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:48:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FadeScreenKA.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\FadeScreenKA.cs",
+              "RelativeDocumentMoniker": "Assets\\FadeScreenKA.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Documents\\CursoUnity\\TesisMeta\\Assets\\FadeScreenKA.cs",
+              "RelativeToolTip": "Assets\\FadeScreenKA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:55:55.132Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

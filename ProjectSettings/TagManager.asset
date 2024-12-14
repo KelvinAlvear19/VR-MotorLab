@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - QDSUIToggleButton
+  - QDSUIIcon
+  - QDSUITextSecondaryColor
+  - QDSUIBorderlessButton
+  - QDSUISharedThemeColor
+  - QDSUITooltip
+  - QDSUISecondaryButton
+  - QDSUIToggleBorderlessButton
+  - QDSUIDestructiveButton
+  - QDSUIPrimaryButton
+  - QDSUIAccentColor
+  - Tornillo
+  - Plug1
+  - Plug2
+  - Plug3
+  - Plug4
+  - Plug5
+  - Cobre1
+  - Cobre2
+  - Cobre3
+  - Cobre4
+  - Cobre5
+  - Cable
+  - CablePlug
+  - CableCopper
+  - Socket1
+  - Socket2
+  - ProbeRed
+  - ProbeBlack
+  - Punta
+  - Punta1
+  - Punta2
+  - Cobre6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
