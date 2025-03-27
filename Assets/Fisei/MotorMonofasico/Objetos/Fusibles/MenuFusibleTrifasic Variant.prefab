@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8467130129864025504
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 258579535340068903, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 58.99596
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6.648355
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -36.039528
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6540685
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.692922
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.20826356
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.220635
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 565012201701164191, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 930625733228572428, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1612113774657577399, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_Name
+      value: MenuFusibleTrifasic Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 2524818309979052494, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434348334652504555, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 170.1363
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434348334652504555, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 16.701
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434348334652504555, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0038
+      objectReference: {fileID: 0}
+    - target: {fileID: 5434348334652504555, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.2216
+      objectReference: {fileID: 0}
+    - target: {fileID: 5636421424816880613, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5637212677607236418, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7065190790160874652, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 8223130752685895568, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_text
+      value: "Se debe colocar los fusibles de 5 Amperios en la fuente de voltaje.\n
+        \n\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472472672522429871, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0010305325
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472472672522429871, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0030113698
+      objectReference: {fileID: 0}
+    - target: {fileID: 8472472672522429871, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.26001334
+      objectReference: {fileID: 0}
+    - target: {fileID: 8546975083531765665, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.058
+      objectReference: {fileID: 0}
+    - target: {fileID: 8832467209583483546, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.0010305325
+      objectReference: {fileID: 0}
+    - target: {fileID: 8832467209583483546, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.0030113698
+      objectReference: {fileID: 0}
+    - target: {fileID: 8832467209583483546, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.40401334
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f9405a82b4e0e2b4b8a7d3eddd6ab950, type: 3}

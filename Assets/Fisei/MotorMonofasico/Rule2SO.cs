@@ -1,4 +1,3 @@
-// Rule2SO.cs
 using UnityEngine;
 using System.Collections.Generic;
 

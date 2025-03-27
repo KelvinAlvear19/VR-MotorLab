@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace Assets.Fisei.MotorMonofasico
+public interface IRule
 {
-    internal interface IRule
-    {
-    }
+    /// <summary>
+    /// Nombre de la regla.
+    /// </summary>
+    string RuleName { get; }
+
+    /// <summary>
+    /// Valida la regla basada en las conexiones actuales.
+    /// </summary>
+    /// <param name="connections">Diccionario de conexiones actuales.</param>
+    /// <returns>True si la regla está cumplida, de lo contrario, false.</returns>
+    bool IsValid(Dictionary<SocketType, List<SocketType>> connections);
 }

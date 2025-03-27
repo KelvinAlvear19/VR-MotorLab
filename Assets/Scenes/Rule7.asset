@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49b24ed0a27c96840bd9ddca6fe031d8, type: 3}
   m_Name: Rule7
   m_EditorClassIdentifier: 
+  RuleName: 
+  GroupId: PrimerasSiete
   description: 

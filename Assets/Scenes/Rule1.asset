@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f564251309aaf604782f8d4fe0b16c12, type: 3}
   m_Name: Rule1
   m_EditorClassIdentifier: 
+  RuleName: Rule1SO
+  GroupId: PrimerasCinco
   description: Conexion R a p1 o p2

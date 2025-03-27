@@ -37,6 +37,8 @@ TagManager:
   - Punta1
   - Punta2
   - Cobre6
+  - Fusible
+  - Tapa
   layers:
   - Default
   - TransparentFX

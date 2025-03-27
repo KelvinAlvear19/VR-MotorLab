@@ -20,6 +20,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tutorial1.unity
     guid: 56679402b56de4e41a0dc46fc5f64ac7
+  - enabled: 1
+    path: Assets/Scenes/EnclavamientoParo.unity
+    guid: 83642bbb06d9429469725d901f278b78
+  - enabled: 1
+    path: Assets/Scenes/MotorTrifasicoT1.unity
+    guid: 6281cb49623a2054da886f52c2ea9212
+  - enabled: 1
+    path: Assets/Scenes/EnclavamientoyParoTrifasico.unity
+    guid: 2ebf0d1e2507ad740a7cb0691a076539
+  - enabled: 1
+    path: Assets/Scenes/PracticaTutorial1.unity
+    guid: 2ce7b1c30339c18459f76345289c5967
+  - enabled: 1
+    path: Assets/Scenes/PracticaEnclavamientoParo.unity
+    guid: a202383d46170ac4da7f1721debb0361
+  - enabled: 1
+    path: Assets/Scenes/PracticaMotorTrifasicoT1.unity
+    guid: 432c7d6b0397b2740ae791525dbcc890
+  - enabled: 1
+    path: Assets/Scenes/PracticaEnclavamientoyParoTrifasico.unity
+    guid: f74948a5495a73a42a0b8638983ea8c4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3bf3b5c364d7c35448ddf33ba7779810, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 83407323fe21510429440ac4f2e751e1, type: 2}

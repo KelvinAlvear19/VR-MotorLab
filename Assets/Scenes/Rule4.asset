@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37a814bbea7932a4c9e8af42c3c0e71f, type: 3}
   m_Name: Rule4
   m_EditorClassIdentifier: 
+  RuleName: 
+  GroupId: PrimerasCinco
   description: 

@@ -3,104 +3,136 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class ContactorTest : MonoBehaviour
 {
-    [SerializeField] private Light targetLight;
-    [SerializeField] private AudioSource buttonAudioSourceDefault;
-    [SerializeField] private AudioSource buttonAudioSourceConexion;
-    [SerializeField] private XRGrabInteractable parentGrabInteractable;
+    [SerializeField] private Light targetLight; // Luz objetivo que indica si se puede interactuar
+    [SerializeField] private AudioSource buttonAudioSourceDefault; // Sonido para el grupo de 5 reglas cumplidas
+    [SerializeField] private AudioSource buttonAudioSourceConexion; // Sonido para el grupo de 7 reglas cumplidas
+    [SerializeField] private XRGrabInteractable parentGrabInteractable; // Objeto que debe desactivarse temporalmente
 
-    [SerializeField] private GameObject sphereOnPress;
-    [SerializeField] private GameObject sphereOnRelease;
+    [SerializeField] private GameObject sphereOnPress; // Esfera que se activa cuando se presiona el botón
+    [SerializeField] private GameObject sphereOnRelease; // Esfera que se activa cuando se suelta el botón
 
-    [SerializeField] private CircuitValidator circuitValidator; // Ahora usamos CircuitValidator
+    [SerializeField] private CircuitValidator circuitValidator; // Referencia al CircuitValidator
+    [SerializeField] private string groupIdForFiveRules = "PrimerasCinco"; // GroupId para el grupo de 5 reglas
+    [SerializeField] private string groupIdForSevenRules = "PrimerasSiete"; // GroupId para el grupo de 7 reglas
 
     private void Start()
     {
         if (sphereOnRelease != null)
         {
-            sphereOnRelease.SetActive(true);
+            sphereOnRelease.SetActive(true); // Inicializar la esfera de liberación activa
         }
     }
 
+    /// <summary>
+    /// Método llamado cuando se presiona el botón.
+    /// </summary>
     public void OnButtonSelectEntered()
     {
+        // Verificar si la luz está encendida antes de continuar
         if (!targetLight.isActiveAndEnabled)
         {
             Debug.Log("No se puede interactuar porque la luz targetLight no está activa.");
             return;
         }
 
-        DisableParentGrab();
+        DisableParentGrab(); // Deshabilitar la interacción con el objeto padre
 
-        bool cincoReglasValidas = circuitValidator.AreFiveRulesMet();  // Reglas 1 a 5
-        bool sieteReglasValidas = circuitValidator.AreSevenRulesMet(); // Reglas 1 a 7
+        // Validar las reglas
+        bool cincoReglasCumplidas = circuitValidator.AreGroupRulesMet(groupIdForFiveRules); // Validar el grupo de 5 reglas
+        bool sieteReglasCumplidas = circuitValidator.AreGroupRulesMet(groupIdForSevenRules); // Validar el grupo de 7 reglas
 
-        if (sieteReglasValidas)
+        // Determinar el comportamiento según el estado de las reglas
+        if (sieteReglasCumplidas && cincoReglasCumplidas)
         {
-            // 7 reglas cumplidas
+            // Si se cumplen las 7 reglas
             Debug.Log("7 reglas cumplidas. Reproduciendo sonido completo.");
-            if (!buttonAudioSourceConexion.isPlaying)
-            {
-                buttonAudioSourceConexion.Play();
-            }
-            if (sphereOnPress != null)
-            {
-                sphereOnPress.SetActive(true);
-            }
+            PlaySound(buttonAudioSourceConexion); // Reproducir sonido completo
+            ActivateSphere(true); // Encender la esfera de "presionado"
         }
-        else if (cincoReglasValidas)
+        else if (cincoReglasCumplidas)
         {
-            // 5 reglas cumplidas
+            // Si se cumplen las primeras 5 reglas
             Debug.Log("5 reglas cumplidas. Reproduciendo sonido por defecto.");
-            if (!buttonAudioSourceDefault.isPlaying)
-            {
-                buttonAudioSourceDefault.Play();
-            }
-            if (sphereOnPress != null)
-            {
-                sphereOnPress.SetActive(true);
-            }
+            PlaySound(buttonAudioSourceDefault); // Reproducir sonido por defecto
+            ActivateSphere(true); // Encender la esfera de "presionado"
         }
         else
         {
-            // Menos de 4 reglas cumplidas, nada se cumple.
+            // Si no se cumplen al menos 5 reglas
             Debug.Log("Conexiones no válidas. No se reproduce ningún sonido ni se enciende nada.");
-            if (sphereOnPress != null)
-            {
-                sphereOnPress.SetActive(false);
-            }
+            ActivateSphere(false); // Asegurarse de apagar la esfera de "presionado"
         }
 
+        // Apagar la esfera de "liberado"
         if (sphereOnRelease != null)
         {
             sphereOnRelease.SetActive(false);
         }
     }
 
+    /// <summary>
+    /// Método llamado cuando se suelta el botón.
+    /// </summary>
     public void OnButtonSelectExited()
     {
+        // Verificar si la luz está encendida antes de continuar
         if (!targetLight.isActiveAndEnabled)
         {
             Debug.Log("No se puede interactuar porque la luz targetLight no está activa.");
             return;
         }
 
-        EnableParentGrab();
+        EnableParentGrab(); // Rehabilitar la interacción con el objeto padre
 
-        // Detener los sonidos al soltar el botón
-        buttonAudioSourceConexion.Stop();
-        buttonAudioSourceDefault.Stop();
+        StopAllSounds(); // Detener todos los sonidos en reproducción
 
+        // Activar la esfera de "liberado"
         if (sphereOnRelease != null)
         {
             sphereOnRelease.SetActive(true);
         }
 
+        // Apagar la esfera de "presionado"
         if (sphereOnPress != null)
         {
             sphereOnPress.SetActive(false);
         }
     }
 
+    /// <summary>
+    /// Reproduce un sonido si no está ya en reproducción.
+    /// </summary>
+    private void PlaySound(AudioSource audioSource)
+    {
+        if (!audioSource.isPlaying)
+        {
+            audioSource.Play();
+        }
+    }
+
+    /// <summary>
+    /// Detiene todos los sonidos en reproducción.
+    /// </summary>
+    private void StopAllSounds()
+    {
+        buttonAudioSourceConexion.Stop();
+        buttonAudioSourceDefault.Stop();
+    }
+
+    /// <summary>
+    /// Activa o desactiva la esfera de "presionado".
+    /// </summary>
+    private void ActivateSphere(bool isActive)
+    {
+        if (sphereOnPress != null)
+        {
+            sphereOnPress.SetActive(isActive);
+        }
+    }
+
+    /// <summary>
+    /// Deshabilita la interacción con el objeto padre.
+    /// </summary>
     private void DisableParentGrab()
     {
         if (parentGrabInteractable != null)
@@ -109,6 +141,9 @@ public class ContactorTest : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Habilita la interacción con el objeto padre.
+    /// </summary>
     private void EnableParentGrab()
     {
         if (parentGrabInteractable != null)

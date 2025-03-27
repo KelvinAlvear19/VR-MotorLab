@@ -6,6 +6,12 @@ public enum SocketType
     S,
     T,
     N,
+    CrossR,
+    CrossS,
+    P1R,
+    P2R,
+    P3,
+    P4,
     P1,
     P2,
     A1,
@@ -18,8 +24,21 @@ public enum SocketType
     NO6,
     NO7,
     NO8,
+    NO1A,
+    NO2A,
+    NC1,
+    NC2,
+    NC3,
+    NC4,
+    NC5,
+    NC6,
+    NC7,
+    NC8,
     MO1,
-    MO2
+    MO2,
+    U1,
+    V1,
+    W1
 }
 public class SocketList : MonoBehaviour
 {

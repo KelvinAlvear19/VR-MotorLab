@@ -1,46 +1,33 @@
-// UIManager.cs
 using UnityEngine;
 using TMPro;
+using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
-    [Header("Textos de Reglas")]
     [SerializeField]
-    private TextMeshProUGUI[] ruleTexts; // Asigna las referencias en el Inspector
-
-    private void Start()
-    {
-        SetAllTextsColorRed();
-    }
+    private List<RuleUI> ruleUIs; // Lista de todos los RuleUI asignados en el Inspector
 
     /// <summary>
-    /// Establece todos los textos de las reglas en color rojo y "No cumplida".
+    /// Actualiza los textos de las reglas en la UI.
     /// </summary>
-    public void SetAllTextsColorRed()
+    public void UpdateRuleTexts(List<bool> ruleStatuses)
     {
-        foreach (var ruleText in ruleTexts)
+        if (ruleUIs.Count != ruleStatuses.Count)
         {
-            ruleText.color = Color.red;
-            ruleText.text = "No cumplida";
-        }
-    }
-
-    /// <summary>
-    /// Actualiza los colores y textos de las reglas basándose en su estado de cumplimiento.
-    /// </summary>
-    /// <param name="rulesStatus">Arreglo de estados de las reglas. Cada elemento corresponde a una regla.</param>
-    public void UpdateRuleColors(bool[] rulesStatus)
-    {
-        if (rulesStatus.Length != ruleTexts.Length)
-        {
-            Debug.LogError("El número de estados proporcionados no coincide con el número de reglas.");
+            Debug.LogError("UIManager - La cantidad de RuleUIs no coincide con los estados de las reglas.");
             return;
         }
 
-        for (int i = 0; i < ruleTexts.Length; i++)
+        for (int i = 0; i < ruleUIs.Count; i++)
         {
-            ruleTexts[i].color = rulesStatus[i] ? Color.green : Color.red;
-            ruleTexts[i].text = rulesStatus[i] ? "Cumplida" : "No cumplida";
+            RuleUI ruleUI = ruleUIs[i];
+            bool isValid = ruleStatuses[i];
+
+            if (ruleUI.ruleText != null)
+            {
+                ruleUI.ruleText.text = $"{(isValid ? "Cumplida" : "No Cumplida")}";
+                ruleUI.ruleText.color = isValid ? Color.green : Color.red;
+            }
         }
     }
 }
